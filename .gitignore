@@ -14,7 +14,6 @@ env/
 *.swo
 
 # Ignore the 'data' directory and its contents, except for .gitkeep
-data/*
 !data/.gitkeep
 
 # Specifically include .gitkeep within subdirectories
