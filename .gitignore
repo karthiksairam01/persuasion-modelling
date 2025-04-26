@@ -18,8 +18,7 @@ env/
 
 # Specifically include .gitkeep within subdirectories
 !data/raw/.gitkeep
-!data/processed/.gitkeep
-!data/processed/annotations/.gitkeep
+!data/annotations/.gitkeep
 
 # Exclude dataset file
 data/raw/*.jsonl
