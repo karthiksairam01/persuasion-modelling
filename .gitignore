@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore the 'data' directory and its contents, except for .gitkeep
+data/*
+!data/.gitkeep
+
+# Specifically include .gitkeep within subdirectories
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/processed/annotations/.gitkeep
+
+# Exclude dataset file
+data/raw/*.jsonl
+
+# Ignore annotations
+data/annotations/*
+
+
+*.out
