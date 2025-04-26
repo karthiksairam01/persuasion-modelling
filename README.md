@@ -2,7 +2,7 @@
 
 ## Phase 1: Conversation Graph Construction
 
-This project focuses on the first phase of persuasion modeling: building directed graphs representing conversation threads from the Reddit ChangeMyView (CMV) dataset. It specifically uses utterances that have been manually annotated with Attack/Support/Neutral (ASN) relations, [done in this reository]{https://github.com/karthiksairam01/cmv_annotation}. The output is a GraphML file suitable for visualization and analysis in tools (I'm using Gephi)
+This project focuses on the first phase of persuasion modeling: building directed graphs representing conversation threads from the Reddit ChangeMyView (CMV) dataset. It specifically uses utterances that have been manually annotated with Attack/Support/Neutral (ASN) relations, [done in this reository](https://github.com/karthiksairam01/cmv_annotation). The output is a GraphML file suitable for visualization and analysis in tools (I'm using Gephi)
 
 ## Tree Specifications
 
