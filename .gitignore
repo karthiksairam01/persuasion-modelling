@@ -24,7 +24,7 @@ env/
 data/raw/*.jsonl
 
 # Ignore annotations
-data/annotations/*
+data/annotations/*.jsonl
 
 *.graphml
 *.out
